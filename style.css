@@ -419,3 +419,8 @@ body {
     gap: 10px;
     align-items: stretch;
 }
+.newsletter-form input {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 14px;
+    background-color: #cccccc;
