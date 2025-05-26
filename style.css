@@ -325,3 +325,24 @@ body {
     text-align: center;
     padding-bottom: 1.5rem;
 }
+.blog-section h3 {
+    color: #099da1;
+    font-size: 24px;
+    padding-bottom: 15px;
+}
+
+.blog-image {
+    width: 350px;
+    height: 250px;
+}
+
+.card-padding {
+    padding: 15px;
+}
+
+.icon-space {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
