@@ -34,3 +34,15 @@ body {
     text-decoration: none;
     color: #333;
 }
+.welcome-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    padding-top: 6rem;
+    padding-bottom: 19.5rem;
+    background-image: url('./image/bg.png');
+    background-size: cover;
+    background-position: center;
+}
