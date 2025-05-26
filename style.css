@@ -143,6 +143,7 @@ body {
     flex: 1 ;
     max-width: 20%;
     height: auto;
+    padding-right: 2.5rem;
 
 }
 
@@ -150,7 +151,7 @@ body {
     flex: 1 1;
     padding-left: 2.5rem;
     width: 37%;
-    padding-right: 2.5rem;
+
 }
 
 .about-section div h2 {
