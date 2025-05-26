@@ -60,3 +60,13 @@ body {
     padding-bottom: 2rem;
     line-height: 1;
 }
+.welcome-text p {
+    padding-bottom: 3rem;
+    width: 90%;
+}
+
+.welcome-section img {
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+}
