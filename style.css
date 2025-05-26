@@ -167,3 +167,20 @@ body {
     scroll-behavior: smooth;
     scroll-snap-type: x mandatory;
 }
+.new-arrivals-title {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.new-arrivals-title h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.book-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
