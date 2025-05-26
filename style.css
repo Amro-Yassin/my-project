@@ -408,3 +408,8 @@ body {
     max-width: 300px;
     width: 100%;
 }
+.newsletter-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
