@@ -143,6 +143,7 @@ body {
     flex: 1 ;
     max-width: 20%;
     height: auto;
+    padding:50px;
 }
 
 .about-section div{
@@ -470,15 +471,17 @@ body {
     padding: 20px;
 }
 
-.footer-container img{
+.footer-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px 50px;
     background-color: #efefef;
-    max-width:20%;
-}
 
+}
+.footer-logo img{
+  max-width:20%;
+}
 
 .footer-section {
     flex: 1;
