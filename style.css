@@ -141,7 +141,7 @@ body {
 
 .about-section img{
     flex: 1 ;
-    max-width: 100%;
+    max-width: 20%;
     height: auto;
 }
 
@@ -218,7 +218,7 @@ body {
     transition: transform 0.3s ease;
     width: calc(20% - 20px);
     min-width: 200px;
-    max-width: 300px; 
+    max-width: 300px;
 }
 
 .arrival-card:hover {
@@ -470,12 +470,13 @@ body {
     padding: 20px;
 }
 
-.footer-container {
+.footer-container img{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px 50px;
     background-color: #efefef;
+    max-width:20%;
 }
 
 
