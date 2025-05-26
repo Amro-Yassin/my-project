@@ -184,3 +184,27 @@ body {
     gap: 20px;
     padding: 20px;
 }
+.arrival-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    width: calc(20% - 20px); /* Adjust for spacing */
+    min-width: 200px; /* Ensure minimum width */
+    max-width: 300px; /* Ensure maximum width */
+}
+
+.arrival-card:hover {
+    transform: scale(1.05);
+}
+
+.book-image {
+    padding-top: 5px;
+    width: 60%;
+    height: 11rem;
+    object-fit: cover;
+    padding-bottom: 1rem;
+    margin-left: 2.5rem;
+}
