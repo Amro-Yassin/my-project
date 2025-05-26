@@ -433,3 +433,9 @@ body {
 .newsletter-form input::placeholder {
     color: #666;
 }
+
+.newsletter-form button {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #00b4d8;
+    color: white;
