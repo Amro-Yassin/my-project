@@ -42,7 +42,7 @@ body {
     padding: 2rem;
     padding-top: 6rem;
     padding-bottom: 19.5rem;
-    background-image: url('./image/bg.png');
+    background-image: url('https://github.com/Amro-Yassin/my-project/blob/master/image/bg.png');
     background-size: cover;
     background-position: center;
 }
@@ -273,4 +273,35 @@ body {
 .review-header {
     display: flex;
     justify-content: space-between;
+}
+.review-para {
+    font-size: 15px;
+}
+
+.review-ratings {
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
+
+
+
+.digital-book-section {
+    width: 100%;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+    background-image: url('https://github.com/Amro-Yassin/my-project/blob/master/image/banner.jpg');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.learn-more-button-digital {
+    background-color: #099da1;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 11%;
+    margin-left: 7%;
 }
