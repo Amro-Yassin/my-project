@@ -22,3 +22,15 @@ body {
     box-shadow: 0px 0px 6px #099da1;
     flex-wrap: wrap;
 }
+
+.nav-links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-links a {
+    flex: 1;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
