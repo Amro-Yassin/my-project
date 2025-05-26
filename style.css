@@ -70,3 +70,20 @@ body {
     max-width: 100%;
     height: auto;
 }
+.learn-more-button {
+    background-color: #099da1;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+.service-section {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
