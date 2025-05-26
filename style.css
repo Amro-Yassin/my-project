@@ -212,14 +212,17 @@ body {
     padding: 20px;
 }
 
-.arrival-card  {
-    width: 100%;
-    height: auto;
-    max-height: 150px;
-    object-fit: cover;
-    display: block;
+.arrival-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    width: calc(20% - 20px);
+    min-width: 200px;
+    max-width: 300px;
 }
-
 
 .arrival-card:hover {
     transform: scale(1.05);
