@@ -46,3 +46,17 @@ body {
     background-size: cover;
     background-position: center;
 }
+.welcome-text {
+    flex: 1;
+    width: 50%;
+    max-width: 100%;
+    padding-left: 2%;
+    padding-top: 2rem;
+}
+
+.welcome-text h1 {
+    color: black;
+    font-size: 3.3rem;
+    padding-bottom: 2rem;
+    line-height: 1;
+}
