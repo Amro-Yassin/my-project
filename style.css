@@ -135,3 +135,20 @@ body {
     padding-left: 2.5rem;
     width: 37%;
 }
+.about-section div h2 {
+    font-size: 40px;
+}
+
+.about-section div p {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.featured-books-title {
+    font-size: 1.875rem;
+    font-weight: bold;
+    color: #1f2937;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
