@@ -413,3 +413,9 @@ body {
     margin-bottom: 20px;
     color: #333;
 }
+.newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: stretch;
+}
