@@ -100,3 +100,38 @@ body {
     text-align: center;
     font-size: 1.2rem;
 }
+.service-title {
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.service-description {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 3%;
+    width: 99%;
+}
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2rem;
+    padding-bottom: 6rem;
+}
+
+.about-section img {
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+}
+
+.about-section div {
+    flex: 1 1;
+    padding-left: 2.5rem;
+    width: 37%;
+}
