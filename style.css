@@ -152,3 +152,18 @@ body {
     margin-bottom: 1.5rem;
     text-align: center;
 }
+.featured-books {
+    text-align: center;
+    padding: 2.5rem 1.5rem;
+    background-color: #f3f4f6;
+    width: 100%;
+}
+
+.book-container {
+    display: flex;
+    gap: 1.5rem;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+}
