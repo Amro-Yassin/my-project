@@ -212,10 +212,10 @@ body {
     padding: 20px;
 }
 
-.arrival-card img {
+.arrival-card  {
     width: 100%;
     height: auto;
-    max-height: 150px; 
+    max-height: 150px;
     object-fit: cover;
     display: block;
 }
