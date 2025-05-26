@@ -232,3 +232,24 @@ body {
     background: #067276;
     cursor: pointer;
 }
+.reviews-title {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.reviews-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5rem;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.reviews-section .review-card {
+    box-shadow: 0px 0px 6px #099da1;
+    width: 323px;
+    padding: 15px;
+}
