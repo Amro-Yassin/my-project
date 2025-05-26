@@ -39,9 +39,6 @@ body {
 
 
 
-
-
-
 .welcome-section{
     display: flex;
     flex-wrap: wrap;
@@ -95,9 +92,6 @@ body {
 
 
 
-
-
-
 .service-section{
     text-align: center;
     display: flex;
@@ -136,10 +130,6 @@ body {
 }
 
 
-
-
-
-
 .about-section{
     display: flex;
     flex-wrap: wrap;
@@ -169,11 +159,6 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
 }
-
-
-
-
-
 
 
 
@@ -233,7 +218,7 @@ body {
     transition: transform 0.3s ease;
     width: calc(20% - 20px);
     min-width: 200px;
-    max-width: 300px;
+    max-width: 300px; 
 }
 
 .arrival-card:hover {
@@ -349,6 +334,7 @@ body {
 
 
 
+
 .reviews-title{
     padding-bottom: 0px;
     margin-bottom: 0px;
@@ -397,20 +383,12 @@ body {
     font-size: 15px;
 }
 
-.review-ratings{
-    padding-top: 4px;
-    padding-bottom: 10px;
-}
 
 .review-ratings{
     padding-top: 4px;
     padding-bottom: 10px;
     text-align: center;
 }
-
-
-
-
 
 
 
@@ -437,15 +415,6 @@ body {
     margin-top: 11%;
     margin-left: 7%;
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -491,11 +460,6 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
-
 
 
 
